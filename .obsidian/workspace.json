@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5ce671d9d2b728f2",
+        "id": "08827467f797b093",
         "type": "tabs",
         "children": [
           {
-            "id": "2583019a6a61d811",
+            "id": "5b69035f1776d027",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docekr.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "docekr"
+              "title": "Nova aba"
             }
           }
         ]
@@ -172,6 +168,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "4c5cfa5d250b79d3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
         "currentTab": 5
@@ -189,12 +195,16 @@
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "b597f74fc99a8573",
   "lastOpenFiles": [
-    "Docker",
-    "docekr.md"
+    "docekr.md",
+    "Excalidraw/Drawing 2026-06-18 16.28.56.excalidraw.md",
+    "Excalidraw",
+    "Docker"
   ]
 }
