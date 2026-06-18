@@ -8,13 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5b69035f1776d027",
+            "id": "6fbb0eb650964d24",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/container-vs-vm.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "container-vs-vm.excalidraw"
             }
           }
         ]
@@ -200,11 +202,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b597f74fc99a8573",
+  "active": "6fbb0eb650964d24",
   "lastOpenFiles": [
+    "CONTAINER VS VM.md",
+    "Excalidraw/container-vs-vm.excalidraw.md",
+    "Excalidraw",
     "docekr.md",
     "Excalidraw/Drawing 2026-06-18 16.28.56.excalidraw.md",
-    "Excalidraw",
     "Docker"
   ]
 }
