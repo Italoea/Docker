@@ -13,7 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/container-vs-vm.excalidraw.md"
+                "file": "Docker/Excalidraw/container-vs-vm.excalidraw.md"
               },
               "icon": "excalidraw-icon",
               "title": "container-vs-vm.excalidraw"
@@ -202,11 +202,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6fbb0eb650964d24",
+  "active": "d956f8e8f1366f56",
   "lastOpenFiles": [
     "CONTAINER VS VM.md",
-    "Excalidraw/container-vs-vm.excalidraw.md",
-    "Excalidraw",
+    "Docker/Excalidraw/container-vs-vm.excalidraw.md",
+    "Docker/Excalidraw",
     "docekr.md",
     "Excalidraw/Drawing 2026-06-18 16.28.56.excalidraw.md",
     "Docker"
