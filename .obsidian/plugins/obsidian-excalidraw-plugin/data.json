@@ -96,7 +96,7 @@
   "autoexportSVG": false,
   "autoexportPNG": false,
   "autoExportLightAndDark": false,
-  "autoexportExcalidraw": false,
+  "autoexportExcalidraw": true,
   "embedType": "excalidraw",
   "embedMarkdownCommentLinks": true,
   "embedWikiLink": true,
@@ -1007,7 +1007,7 @@
         "rules": [
           {
             "shift": false,
-            "ctrl_cmd": false,
+            "ctrl_cmd": true,
             "alt_opt": false,
             "meta_ctrl": false,
             "result": "active-pane"
