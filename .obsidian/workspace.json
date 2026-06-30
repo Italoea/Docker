@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Docker/Excalidraw/container-vs-vm.excalidraw.md"
+                "file": "Docker/Excalidraw/arquitetura-do-docker.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "container-vs-vm.excalidraw"
+              "title": "arquitetura-do-docker.excalidraw"
             }
           }
         ]
@@ -204,9 +204,15 @@
   },
   "active": "6fbb0eb650964d24",
   "lastOpenFiles": [
+    "Docker/Excalidraw/container-vs-vm.excalidraw.md",
+    "Docker/Excalidraw/arquitetura-do-docker.excalidraw.md",
+    "Excalidraw",
+    "Sem título.md",
+    "Docker/Excalidraw/arquitedura-do-docker.excalidraw.md",
+    "Untitled Kanban.md",
+    "Docker/Excalidraw/container-vs-vm.excalidraw.excalidraw",
     "Docker/Excalidraw/container-vs-vm.excalidraw.svg",
     "Docker/Excalidraw/container-vs-vm.excalidraw.png",
-    "Docker/Excalidraw/container-vs-vm.excalidraw.md",
     "CONTAINER VS VM.md",
     "Docker/Excalidraw",
     "docekr.md",
